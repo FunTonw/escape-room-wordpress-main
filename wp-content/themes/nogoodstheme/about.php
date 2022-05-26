@@ -6,6 +6,7 @@
     <div class="col-md-4">
       <div class="card bg-light border-0">
         <h5 class="card-title text-center">承接專案</h5>
+         <!-- add -->
         <img src="<?php echo get_template_directory_uri(); ?>./assets/img/culture/project.jpg" class="card-img-top">
         <div class="card-body">
           <p class="card-text">
@@ -17,6 +18,7 @@
     <div class="col-md-4">
       <div class="card bg-light border-0">
         <h5 class="card-title text-center">推廣文化</h5>
+         <!-- add -->
         <img src="<?php echo get_template_directory_uri(); ?>./assets/img/culture/culture.jpg" class="card-img-top">
         <div class="card-body">
           <p class="card-text">
@@ -28,6 +30,7 @@
     <div class="col-md-4">
       <div class="card bg-light border-0">
         <h5 class="card-title text-center">人才培訓</h5>
+         <!-- add -->
         <img src="<?php echo get_template_directory_uri(); ?>./assets/img/culture/training.jpg" class="card-img-top">
         <div class="card-body">
           <p class="card-text">

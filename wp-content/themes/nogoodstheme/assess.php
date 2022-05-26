@@ -3,6 +3,7 @@
     <div class="col-md-8">
       <div class="row mb-4 flex-md-row-reverse">
         <div class="col-md-2 text-center mb-4 mb-md-0">
+          <!-- add -->
           <img src="<?php echo get_template_directory_uri(); ?>./assets/img/other/intern.jpg" class="img-fluid rounded-circle border border-dark">
         </div>
         <div class="col-md-10 d-flex justify-content-center align-items-center">
@@ -11,6 +12,7 @@
       </div>
       <div class="row mb-4">
         <div class="col-md-2 text-center mb-4 mb-md-0">
+           <!-- add -->
           <img src="<?php echo get_template_directory_uri(); ?>./assets/img/other/pm.jpg" class="img-fluid rounded-circle border border-dark">
         </div>
         <div class="col-md-10 d-flex justify-content-center align-items-center">
@@ -19,6 +21,7 @@
       </div>
       <div class="row flex-md-row-reverse">
         <div class="col-md-2 text-center mb-4 mb-md-0">
+           <!-- add -->
           <img src="<?php echo get_template_directory_uri(); ?>./assets/img/other/staff.jpg" class="img-fluid rounded-circle border border-dark">
         </div>
         <div class="col-md-10 d-flex justify-content-center align-items-center">
