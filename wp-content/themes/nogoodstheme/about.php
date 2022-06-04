@@ -2,6 +2,7 @@
   <h2 id="about" class="mb-5">
     梅添涼在幹嘛？
   </h2>
+  <div class="container">
   <div class="row g-4">
     <div class="col-md-4">
       <div class="card bg-light border-0">
@@ -39,5 +40,6 @@
         </div>
       </div>
     </div>
+  </div>
   </div>
 </div>

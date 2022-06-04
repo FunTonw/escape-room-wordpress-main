@@ -1,12 +1,6 @@
 body {
   scroll-behavior: smooth;
 }
-
-/* add */
-main {
-  overflow: hidden;
-}
-
 .bg-light {
   background-color: #f3f3f3;
 }
